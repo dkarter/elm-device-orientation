@@ -1,0 +1,15 @@
+{
+    "version": "1.0.0",
+    "summary": "Elm Wrapper for Device Orientation",
+    "repository": "https://github.com/dkarter/elm-device-orientation.git",
+    "license": "MIT",
+    "source-directories": [
+        "src"
+    ],
+    "native-modules": true,
+    "exposed-modules": ["DeviceOrientation"],
+    "dependencies": {
+        "elm-lang/core": "3.0.0 <= v < 4.0.0"
+    },
+    "elm-version": "0.16.0 <= v < 0.17.0"
+}
